@@ -1,6 +1,6 @@
 <h2 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Kamesh Kadimisetty!</h2>
 
-<h2 align="center">🔗 <a href="https://github.com/Kamesh-Kadimisetty">Visit my GitHub Profile</a></h2>
+<h2 align="center">🔗 <a href="https://kamesh-kadimisetty.github.io/portfolio/">Visit my Portfolio</a></h2>
 
 <h2>About Me 👤</h2>
 <ul>
