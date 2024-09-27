@@ -64,6 +64,10 @@
   <a href="https://instagram.com/kamesh_kadimisetty" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram Profile" height="30" width="40" />
   </a>
+  <a href="https://x.com/KameshK05" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
+      alt="X profile" height="30" width="40" />
+  </a>
   <a href="https://www.hackerrank.com/KameshK2005" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank Profile" height="30" width="40" />
   </a>
