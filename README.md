@@ -3,6 +3,8 @@
 <h2 align="center">🔗 <a href="https://kamesh-kadimisetty.github.io/portfolio/">Visit my Portfolio</a></h2>
 
 <h2>About Me 👤</h2>
+<p align="left"> <a href="https://x.com/KameshK05" target="blank"><img src="https://img.shields.io/twitter/follow/KameshK05?logo=twitter&style=for-the-badge" 
+ alt="Kamesh Kadimisetty" /></a> </p>
 <ul>
   <li>💬 Ask me about C/C++, Python.</li>
   <li>🌱 Currently learning <b>Front End Web Development and Machine Learning</b>.</li>
