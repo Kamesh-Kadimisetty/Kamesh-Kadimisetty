@@ -7,7 +7,7 @@
  alt="Kamesh Kadimisetty" /></a> </p>
 <ul>
   <li>💬 Ask me about C/C++, Python.</li>
-  <li>🌱 Currently learning <b>Front End Web Development and Machine Learning</b>.</li>
+  <li>🌱 Currently learning <b>Fullstack Web Development</b>.</li>
   <li>📫 Reach out at <a href="mailto:kameshkadimisetty@gmail.com">kameshkadimisetty@gmail.com</a>.</li>
   <li>🧠 I enjoy solving Data Structures & Algorithms (DSA) and tackling problem-solving challenges.</li>
   <li>⚡ Fun fact: I love solving puzzles—both in code and in life!</li>
