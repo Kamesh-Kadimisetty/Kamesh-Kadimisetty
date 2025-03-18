@@ -84,7 +84,7 @@
   <a href="https://discord.gg/kameshkadimisetty_99001" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord Profile" height="30" width="40" />
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/scs50sds6/profile" target="blank">     
+  <a href="https://auth.geeksforgeeks.org/user/kameshkadimisetty/profile" target="blank">     
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks Profile" height="30" width="40" />   
 </a>
 
