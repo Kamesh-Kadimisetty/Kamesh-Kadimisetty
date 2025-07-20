@@ -7,11 +7,11 @@
 <p align="left"> <a href="https://x.com/KameshK05" target="blank"><img src="https://img.shields.io/twitter/follow/KameshK05?logo=twitter&style=for-the-badge" 
  alt="Kamesh Kadimisetty" /></a> </p>
 <ul>
-  <li>💬 Ask me about DSA and Web Development and Finetuning LLMs.</li>
+  <li>💬 Ask me about DSA , Web Development and Finetuning LLMs.</li>
   <li>🌱 Currently learning <b>Reinforcement Learning</b>.</li>
   <li>📫 Reach out at <a href="mailto:kameshkadimisetty@gmail.com">kameshkadimisetty@gmail.com</a>.</li>
   <li>🧠 I enjoy solving Data Structures & Algorithms (DSA) and training LLMs.</li>
-  <li>⚡ Fun fact: I love solving puzzles—both in code and in life!</li>
+  <li>⚡ Fun fact: I love solving puzzles both in code and in life!</li>
 </ul>
 
 <h2>Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"></h2>
