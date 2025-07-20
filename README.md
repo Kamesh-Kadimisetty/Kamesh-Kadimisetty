@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://x.com/KameshK05" target="blank"><img src="https://img.shields.io/twitter/follow/KameshK05?logo=twitter&style=for-the-badge" 
  alt="Kamesh Kadimisetty" /></a> </p>
 <ul>
-  <li>💬 Ask me about DSA and Web Development.</li>
+  <li>💬 Ask me about DSA and Web Development and Finetuning LLMs.</li>
   <li>🌱 Currently learning <b>Reinforcement Learning</b>.</li>
   <li>📫 Reach out at <a href="mailto:kameshkadimisetty@gmail.com">kameshkadimisetty@gmail.com</a>.</li>
   <li>🧠 I enjoy solving Data Structures & Algorithms (DSA) and training LLMs.</li>
@@ -49,6 +49,16 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   </a>
+  <a href="https://unsloth.ai/" target="_blank" rel="noreferrer">
+  <img src="https://hdrobots.com/ai-tools/unsloth" alt="Unsloth" width="40" height="40"/>
+</a>
+ <a href="https://ollama.com/" target="_blank" rel="noreferrer">
+  <img src="[https://ollama.com/apple-touch-icon.png](https://ollama.com/)" alt="Ollama" width="40" height="40"/>
+</a>
+ <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
+   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="40" height="40"/>
+ </a>
+
 </p>
 
  <!--<div style="display: flex; justify-content: center;">
