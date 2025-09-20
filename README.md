@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://x.com/KameshK05" target="blank"><img src="https://img.shields.io/twitter/follow/KameshK05?logo=twitter&style=for-the-badge" 
  alt="Kamesh Kadimisetty" /></a> </p>
 <ul>
-  <li>💬 Ask me about DSA , Web Development and Finetuning LLMs.</li>
+  <li>💬 Ask me about DSA ,Web Development and Finetuning LLMs.</li>
   <li>🌱 Currently learning <b>Reinforcement Learning</b>.</li>
   <li>📫 Reach out at <a href="mailto:kameshkadimisetty@gmail.com">kameshkadimisetty@gmail.com</a>.</li>
   <li>🧠 I enjoy solving Data Structures & Algorithms (DSA) and training LLMs.</li>
